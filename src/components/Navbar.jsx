@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <Stack>
       <Link>
-        <img src={logo} alt='Hey'/>
+        <img src={logo} alt='Hey' style={{width: '100px'}}/>
       </Link>
     </Stack>
   )
