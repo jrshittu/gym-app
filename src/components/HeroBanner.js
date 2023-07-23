@@ -1,5 +1,6 @@
 import React from 'react';
 import {Box, Button, Stack, Typography} from '@mui/material';
+import banner from '../assets/assets/images/banner.png';
 
 
 function HeroBanner() {
@@ -18,6 +19,7 @@ function HeroBanner() {
         Check out the most effective Exercise
       </Typography>
       <Button variant='contained' color='error' href='#exercises'>Explore Exercises</Button>
+      <img src={banner} alt='banner' className='hero-banner-img'/>
     </Box>
   )
 }
