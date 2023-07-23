@@ -12,7 +12,7 @@ const Navbar = () => {
     }}>
 
       <Link>
-        <img src={logo} alt='fitflex logo' style={{width: '100px', height: '70px', margin: '0 20px'}}/>
+        <img src={logo} alt='fitflex logo' style={{width: '120px', height: '80px', margin: '0 20px'}}/>
       </Link>
 
       <Stack direction='row' gap='30px' fontSize='22px' alignItems='flex-end'>

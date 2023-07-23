@@ -8,8 +8,8 @@ function HeroBanner() {
     <Box sx={{mt: {lg:'160px', xs:'70px'},
     ml: {sm: '50px'} 
     }} position='relative' p='20px'>
-      <Typography color='#ff2625' fontWeight='600' fontSize='26px'>
-        FitFlex Community
+      <Typography color='#ff2625' fontWeight='700' fontSize='26px'>
+        FitFlex Club
       </Typography>
       <Typography fontWeight='700' sx={{fontSize: {lg:'44px', xs:'40px'}
     }}>
@@ -18,7 +18,15 @@ function HeroBanner() {
       <Typography lineHeight='35px' fontSize='26px' mb={3}>
         Check out the most effective Exercise
       </Typography>
-      <Button variant='contained' color='error' href='#exercises'>Choose a Program</Button>
+      <Button variant='contained' color='error' href='#exercises'>Find a suitable Exercise</Button>
+      <Typography
+         fontWeight={600} color='#ff2625' fontSize='200px'
+         sx={{opacity: 0.1, display: { lg: "block", xs:"none"}
+         
+        }}
+      >
+        FitFlex
+      </Typography>
       <img src={banner} alt='banner' className='hero-banner-img'/>
     </Box>
   )
