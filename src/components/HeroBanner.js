@@ -20,7 +20,7 @@ function HeroBanner() {
       </Typography>
       <Button variant='contained' color='error' href='#exercises'>Find a suitable Exercise</Button>
       <Typography
-         fontWeight={600} color='#ff2625' fontSize='200px'
+         fontWeight={600} color='#ff2625' fontSize='200px' mt='12px' mb='40px'
          sx={{opacity: 0.1, display: { lg: "block", xs:"none"}
          
         }}
