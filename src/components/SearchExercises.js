@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 function SearchExercises() {
   return (
@@ -8,4 +8,4 @@ function SearchExercises() {
   )
 }
 
-export default SearchExercises
+export default SearchExercises;
