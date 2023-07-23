@@ -18,7 +18,7 @@ function HeroBanner() {
       <Typography lineHeight='35px' fontSize='26px' mb={3}>
         Check out the most effective Exercise
       </Typography>
-      <Button variant='contained' color='error' href='#exercises'>Choose a Program</Button>
+      <Button variant='contained' color='error' href='#exercises'>Choose an Track</Button>
       <img src={banner} alt='banner' className='hero-banner-img'/>
     </Box>
   )
