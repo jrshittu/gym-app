@@ -17,7 +17,7 @@ function SearchExercises() {
           placeholder="Search Exercises"
           type="text"
         />
-        <Button className="search-btn" >
+        <Button className="search-btn" sx: {{ backgroundColor: '#ff2625', color:'#fff', textTransform:'none', width:{lg:'173px', xs:'70px'}, positon:'absolute', height: '56px', right: '0px', fontSize: {lg: '20px', xs: '14px'}}} onClick={handleSearch}>
             Search
         </Button>
       </Box>
