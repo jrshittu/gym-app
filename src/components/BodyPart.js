@@ -1,9 +1,9 @@
 import React from 'react';
 
-function BodyPart() {
+const BodyPart = () => {
   return (
     <div>
-      BodyPart
+      
     </div>
   )
 }

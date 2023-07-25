@@ -1,11 +1,11 @@
 import React from 'react';
 
-function Exercises() {
+const Exercises = () => {
   return (
     <div>
-      Exercise
+      
     </div>
   )
 }
 
-export default Exercises;
+export default Exercises

@@ -1,9 +1,9 @@
 import React from 'react';
 
-function ExerciseCard() {
+const ExerciseCard = () => {
   return (
     <div>
-        ExerciseCard
+      
     </div>
   )
 }
