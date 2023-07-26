@@ -18,7 +18,7 @@ const BodyPart = (item, setBodyPart, bodyPart) => {
         } 
     }
     >
-      <img src={Icon} />
+      <img src={Icon}/>
     </Stack>
   )
 }
