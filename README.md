@@ -1,13 +1,15 @@
-FitFlex App - Home Page
+# FitFlex App - Home Page
 This is the home page of a Fitness App, where users can search for exercises based on body parts and view a list of exercises.
 
-Features
+## Features
 Search for exercises based on body parts.
 View a list of exercises related to the selected body part.
-Tech Stack
+
+## Tech Stack
 React: Front-end library for building user interfaces.
 Material-UI: A popular React UI framework for designing modern and responsive UI components.
-Getting Started
+
+## Getting Started
 To run the app locally, follow these steps:
 
 Clone the repository:
