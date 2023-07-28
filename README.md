@@ -1,4 +1,4 @@
-Fitness App - Home Page
+FitFlex App - Home Page
 This is the home page of a Fitness App, where users can search for exercises based on body parts and view a list of exercises.
 
 Features
