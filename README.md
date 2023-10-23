@@ -2,7 +2,7 @@
 This is the home page of a Fitness App, where users can search for exercises based on body parts and view a list of exercises.
 
 ## Features
-Search for exercises based on body parts.
+Search for exercises based on body parts and others.
 View a list of exercises related to the selected body part.
 
 ## Tech Stack
